@@ -1,0 +1,46 @@
+﻿@using ExampleProject.DataAccess.Enums
+@model UserViewModel
+@{
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+    ViewData["Title"] = "My Account";
+}
+
+<div class="app-main__outer">
+    <div class="app-main__inner">
+        <h1>Edit Account</h1>
+        <hr />
+        <form method="post">
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label asp-for="@Model.FirstName"></label>
+                        <input asp-for="@Model.FirstName" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="@Model.LastName"></label>
+                        <input asp-for="@Model.LastName" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="@Model.Email"></label>
+                        <input asp-for="@Model.Email" class="form-control" />
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label asp-for="@Model.Password"></label>
+                        <input asp-for="@Model.Password" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="@Model.ConfirmPassword"></label>
+                        <input asp-for="@Model.ConfirmPassword" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group mt-3" style="text-align:center">
+                <input type="submit" value="Save Changes" class="btn btn-primary" />
+@*                <input type="submit" value="Delete User" class="btn btn-danger" />*@
+            </div>
+
+        </form>
+    </div>
+</div>

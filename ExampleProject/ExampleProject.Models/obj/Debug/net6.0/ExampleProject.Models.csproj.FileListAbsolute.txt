@@ -1,0 +1,12 @@
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\bin\Debug\net6.0\ExampleProject.Models.deps.json
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\bin\Debug\net6.0\ExampleProject.Models.dll
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\bin\Debug\net6.0\ExampleProject.Models.pdb
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\obj\Debug\net6.0\ExampleProject.Models.csproj.AssemblyReference.cache
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\obj\Debug\net6.0\ExampleProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\obj\Debug\net6.0\ExampleProject.Models.AssemblyInfoInputs.cache
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\obj\Debug\net6.0\ExampleProject.Models.AssemblyInfo.cs
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\obj\Debug\net6.0\ExampleProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\obj\Debug\net6.0\ExampleProject.Models.dll
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\obj\Debug\net6.0\refint\ExampleProject.Models.dll
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\obj\Debug\net6.0\ExampleProject.Models.pdb
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.Models\obj\Debug\net6.0\ref\ExampleProject.Models.dll

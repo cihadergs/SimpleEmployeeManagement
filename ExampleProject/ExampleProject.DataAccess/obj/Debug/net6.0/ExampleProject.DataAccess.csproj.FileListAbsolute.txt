@@ -1,0 +1,15 @@
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\bin\Debug\net6.0\ExampleProject.DataAccess.deps.json
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\bin\Debug\net6.0\ExampleProject.DataAccess.dll
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\bin\Debug\net6.0\ExampleProject.DataAccess.pdb
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\bin\Debug\net6.0\ExampleProject.Models.dll
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\bin\Debug\net6.0\ExampleProject.Models.pdb
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\ExampleProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\ExampleProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\ExampleProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\ExampleProject.DataAccess.AssemblyInfo.cs
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\ExampleProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\ExampleProject.DataAccess.csproj.CopyComplete
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\ExampleProject.DataAccess.dll
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\refint\ExampleProject.DataAccess.dll
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\ExampleProject.DataAccess.pdb
+C:\Users\OETech\source\repos\MyTemplate\ExampleProject\ExampleProject.DataAccess\obj\Debug\net6.0\ref\ExampleProject.DataAccess.dll
